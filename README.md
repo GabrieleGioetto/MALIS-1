@@ -1,4 +1,5 @@
-# MALIS-Project
+# Vessel-CAPTCHA-Active-Learning
+
 
 Project for the MALIS course at EURECOM.
 
